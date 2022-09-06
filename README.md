@@ -1,10 +1,17 @@
+## About
+
+Hi, my name is Emil.
+I like writing fan fiction and coding without any particular purpose.
+
+Feel free to contact me if you have any questions about my repos.
+
 ## Contact Me
 
 **E-mail:** [regnveig@yandex.ru](mailto:regnveig@yandex.ru)
 
-### PGP Public Key
-
-```
+<details>
+<summary>PGP Public Key</summary>
+<pre><code>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGJbRnEBEACzYWYeOijCliyOjfZb2oFHxHqRHsD/RHGw0Ja4VKg28ODFCZ4z
@@ -75,4 +82,5 @@ TkBGeNIz/oqfg+k0itOZEnHBvEVHFWSWGxh8su4BFiA8g6xaVd3AhyjehCfphRV7
 CDdZlSbHGUCQRIzHI4JI
 =uVzI
 -----END PGP PUBLIC KEY BLOCK-----
-```
+</code></pre>
+</details>
