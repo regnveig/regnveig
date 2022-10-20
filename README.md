@@ -15,6 +15,7 @@ It's just for me, to satisfy my ego.
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/exoclasma-pipe?label=exoclasma-pipe&style=flat-square)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/FastContext?label=FastContext&style=flat-square)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/yadisk-shadow?label=yadisk-shadow&style=flat-square)
+![Mozilla Add-on](https://img.shields.io/amo/users/reverso-cleaner?label=reverso-cleaner&style=flat-square)
 
 ## Contact Me
 
